@@ -34,10 +34,10 @@
 ### 🛠 &nbsp;Tech Skills
 
 <p align="left">  
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a >
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&animation=spin&svgfill=15d8fe">  
  </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="https://github.com/mohamedamr77/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=15d8fe">  
  </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
