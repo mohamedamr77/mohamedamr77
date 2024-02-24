@@ -37,19 +37,19 @@
 <a >
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&animation=spin&svgfill=15d8fe">  
  </a>
- <a href="https://github.com/mohamedamr77/readme-components">
+ <a href=">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=15d8fe">  
  </a>
-  <a href="https://github.com/harish-sethuraman/readme-components">
+  <a href="">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=8ed5fa">
 </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=659b60">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=df5c43">  
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=cd6799">
 </a>
 
@@ -57,7 +57,7 @@
 <!-- <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
 </a> -->
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=windows&svgfill=f6df1c">
 </a>
 
