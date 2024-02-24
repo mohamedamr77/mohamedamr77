@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Dart, Flutter, and Api,Firebase or anything related to Mobile developer.
+- 💬 Ask me about my experience with Dart, Flutter, Api , and Firebase or anything related to Mobile developer.
 - ⚡ Fun Fact : work hard in silence let success make the noise
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 56% height=95px>
 
