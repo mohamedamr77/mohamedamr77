@@ -1,236 +1,224 @@
 # 👋 Hey, I'm Mohamed Amr
 
-### 🚀 Flutter Developer | Software Engineer | Mobile Application Engineer
+<h3 align="center">
+  Flutter Developer • Software Engineer • Mobile Application Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Software+Engineer;Real-Time+Systems+Builder;Mobile+Application+Engineer;Building+Scalable+Production-Ready+Apps" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/MohamedAmrMokhtar">
+    <img src="https://komarev.com/ghpvc/?username=MohamedAmrMokhtar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=blue" />
+  <a href="https://github.com/MohamedAmrMokhtar?tab=followers">
+    <img src="https://img.shields.io/github/followers/MohamedAmrMokhtar?label=Followers&style=for-the-badge&color=236ad3" alt="Followers"/>
   </a>
 </p>
 
----
-
-## 🧑‍💻 Who Am I?
-
-I'm a **Flutter Developer & Software Engineer** passionate about building reliable, scalable and beautiful mobile applications.
-
-I don't just build screens.
-
-I care about:
-
-* 🏗️ **Scalable Architecture**
-* ⚡ **Performance**
-* 🔌 **Clean API Integration**
-* 🔄 **Real-Time Communication**
-* 🔐 **Secure Authentication**
-* 📱 **Native Android & iOS Features**
-* 🧪 **Maintainable & Testable Code**
-* 🚀 **Production-Ready Applications**
-
-My goal is simple:
-
-> **Turn complex business requirements into clean, scalable and reliable software.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+Scalable+Flutter+Applications;Real-Time+Systems+%7C+WebSockets+%7C+VoIP;Clean+Architecture+%7C+SOLID+%7C+BLoC;Turning+Business+Requirements+into+Software" />
+</p>
 
 ---
 
-# ⚡ What I Do
+## 🚀 About Me
 
-## 📱 Mobile Development
+I'm a **Flutter Developer & Software Engineer** focused on building scalable, reliable, and production-ready applications.
 
-* Flutter
-* Dart
-* Android
-* iOS
-* Responsive UI
-* Custom Animations
-* Deep Linking
-* WebView
-* Native Platform Integration
-
-## 🏗️ Software Architecture
-
-* Clean Architecture
-* SOLID Principles
-* Repository Pattern
-* Dependency Injection
-* BLoC / Cubit
-* Modular Architecture
-* Scalable Codebases
-* Separation of Concerns
-
-## 🌐 Backend Integration
-
-* REST APIs
-* Dio
-* WebSockets
-* JSON
-* Authentication
-* Authorization
-* Real-Time Systems
-* API Error Handling
-
-## 🔥 Firebase & Native Features
-
-* Firebase Cloud Messaging
-* Crashlytics
-* Authentication
-* Push Notifications
-* APNs
-* PushKit
-* VoIP
-* CallKit
-
----
-
-# 🚀 Things I've Built
-
-## 📞 Real-Time Communication & Call Center
-
-Building mobile experiences around **real-time communication**, including:
-
-* Incoming call handling
-* VoIP
-* PushKit
-* CallKit
-* Call status handling
-* WebSocket communication
-* Real-time events
-* Call center workflows
-* Push notifications
-
-> **From a simple notification to a complete real-time communication flow.**
-
----
-
-## 💬 Real-Time Chat Systems
-
-Experience working with messaging systems involving:
-
-* WebSockets
-* Real-time message updates
-* Unread messages
-* Chat states
-* Message synchronization
-* Optimistic UI updates
-* AI-powered chat features
-* Real-time notifications
-
----
-
-## 🗺️ Location-Based Applications
-
-Working with:
-
-* Mapbox
-* Geolocation
-* Custom markers
-* Location services
-* Map interactions
-* Location-based business logic
-
----
-
-## 🛒 Business & E-Commerce Applications
-
-Building applications around real-world business requirements such as:
-
-* Food delivery
-* Orders
-* Users
-* Vendors
-* Dashboards
-* Notifications
-* Payments
-* Real-time updates
-
----
-
-# 🧠 Engineering Mindset
+I enjoy working on problems that go beyond UI development — especially **architecture, real-time communication, native integrations, performance, and backend integration**.
 
 ```text
-Requirements
-     ↓
-Business Logic
-     ↓
-Architecture
-     ↓
-API / Backend Integration
-     ↓
-State Management
-     ↓
-UI / UX
-     ↓
-Testing
-     ↓
-Performance
-     ↓
-Production 🚀
+Business Requirements
+        ↓
+   Architecture
+        ↓
+   Business Logic
+        ↓
+ API / Real-Time Layer
+        ↓
+ State Management
+        ↓
+      Flutter
+        ↓
+ Testing & Optimization
+        ↓
+    Production 🚀
 ```
 
-I believe good software isn't just about **making it work**.
+### What I care about
 
-It's about making it:
+* 🏗️ Scalable Architecture
+* 🧹 Clean & Maintainable Code
+* ⚡ Performance
+* 🔄 Real-Time Communication
+* 🔐 Secure Authentication
+* 📡 Reliable API Integration
+* 📱 Native Android & iOS Features
+* 🧪 Testable Systems
+* 🚀 Production-Ready Applications
 
-**Readable → Maintainable → Scalable → Reliable**
+> **I don't just build screens. I build systems.**
 
 ---
 
 # 🛠️ Tech Stack
 
-## 📱 Mobile
+### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,swift" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,swift" />
 </p>
 
-## 🔥 Backend & Services
+### 🏗️ Architecture & Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,nodejs,postman" />
+  <img src="https://skillicons.dev/icons?i=dart" />
 </p>
 
-## 🗄️ Database
+**Clean Architecture • SOLID • Repository Pattern • Dependency Injection • BLoC / Cubit • Modular Architecture**
+
+### 🌐 Backend & Real-Time
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql,postman" />
 </p>
 
-## 🧰 Tools
+**REST APIs • Dio • WebSockets • JSON • Authentication • Authorization • Real-Time Systems**
+
+### 🔥 Firebase & Native
+
+**Firebase Cloud Messaging • Crashlytics • APNs • PushKit • VoIP • CallKit**
+
+### 🧰 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,xcode" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,xcode,androidstudio" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 🚀 What I've Been Building
+
+## 📞 Real-Time Communication & Call Center
+
+Working with real-time communication systems involving:
+
+* VoIP
+* PushKit
+* CallKit
+* WebSockets
+* Incoming call handling
+* Call status management
+* Push notifications
+* Real-time events
+* Call center workflows
+
+```text
+Push Notification
+       ↓
+    PushKit
+       ↓
+    CallKit
+       ↓
+ Incoming Call
+       ↓
+ WebSocket Events
+       ↓
+   Call Status
+```
+
+---
+
+## 💬 Real-Time Chat Systems
+
+Building chat experiences with:
+
+* WebSockets
+* Real-time message updates
+* Unread message tracking
+* Message synchronization
+* Optimistic UI
+* AI-powered features
+* Notifications
+* Chat state management
+
+---
+
+## 🗺️ Location-Based Applications
+
+Experience with:
+
+* Mapbox
+* Geolocation
+* Location Services
+* Custom Markers
+* Map Interactions
+* Location-Based Business Logic
+
+---
+
+## 🛒 Business & E-Commerce Applications
+
+Working on applications involving:
+
+* Food Delivery
+* Orders
+* Vendors
+* Users
+* Dashboards
+* Notifications
+* Payments
+* Real-Time Updates
+
+---
+
+# 🧠 Engineering Mindset
+
+I believe software should be:
+
+```text
+Readable
+   ↓
+Maintainable
+   ↓
+Testable
+   ↓
+Scalable
+   ↓
+Reliable
+   ↓
+Production Ready 🚀
+```
+
+The goal isn't simply:
+
+> **"Make it work."**
+
+The goal is:
+
+> **"Build it right so it can keep working as the system grows."**
+
+---
+
+# 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAmrMokhtar&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmrMokhtar&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=MohamedAmrMokhtar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAmrMokhtar&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -238,56 +226,66 @@ It's about making it:
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAmrMokhtar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
-# 📊 Total Contributions
+# 📊 Contributions
 
 <p align="center">
-
-  <img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-
+  <img src="https://github-contributor-stats.vercel.app/api?username=MohamedAmrMokhtar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
-
-> 🔄 Contribution statistics are generated dynamically from GitHub and update automatically as my activity changes.
 
 ---
 
 # 📌 Featured Projects
 
-### 🚀 Real-Time Communication
+<table>
+<tr>
+<td width="50%">
 
-Building scalable communication systems with:
+### 📞 Real-Time Communication
 
-**Flutter + WebSockets + VoIP + PushKit + CallKit + Firebase**
+Real-time communication and call-center features using:
 
----
+**Flutter • WebSockets • VoIP • PushKit • CallKit**
+
+</td>
+
+<td width="50%">
 
 ### 💬 Real-Time Chat
 
-Scalable chat systems with:
+Scalable chat experiences using:
 
-**WebSockets + AI Features + Notifications + Optimistic Updates**
+**Flutter • WebSockets • Firebase • AI**
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🛒 Food Delivery
 
-Real-world food delivery architecture involving:
+Business-focused food delivery architecture:
 
-**Users + Vendors + Orders + Payments + Notifications + Real-Time Updates**
+**Flutter • REST APIs • Orders • Payments**
 
----
+</td>
 
-### 🗺️ Location-Based Apps
+<td width="50%">
 
-Applications powered by:
+### 🗺️ Location Apps
 
-**Mapbox + Geolocation + Custom Markers + Location Services**
+Location-based applications using:
 
-> 🚧 More projects and experiments are continuously being added.
+**Flutter • Mapbox • Geolocation**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -295,40 +293,27 @@ Applications powered by:
 
 ```text
 Flutter
-  ├── Advanced Architecture
-  ├── Performance Optimization
-  ├── Real-Time Systems
-  ├── WebSockets
-  ├── VoIP & CallKit
-  ├── PushKit
-  ├── System Design
-  ├── Scalable Applications
-  └── Software Engineering
+ ├── Advanced Architecture
+ ├── Performance Optimization
+ ├── Real-Time Systems
+ ├── WebSockets
+ ├── VoIP
+ ├── CallKit
+ ├── PushKit
+ ├── System Design
+ ├── Scalability
+ └── Production Engineering
 ```
 
-I'm continuously improving my understanding of **software engineering beyond the UI layer**.
+I'm continuously expanding my knowledge beyond the UI layer and focusing more on **software architecture, distributed systems, and scalable applications**.
 
 ---
 
-# 🎯 What I'm Focused On
+# 📊 My GitHub Activity
 
-```text
-        ┌───────────────────────────────┐
-        │      SOFTWARE ENGINEERING     │
-        └───────────────┬───────────────┘
-                        │
-        ┌───────────────┼───────────────┐
-        ↓               ↓               ↓
-   Architecture     Performance     Scalability
-        │               │               │
-        └───────────────┼───────────────┘
-                        ↓
-                Production Systems
-```
+<!--START_SECTION:activity-->
 
-My focus is not only on building applications.
-
-It's on understanding **how to build systems that can grow.**
+<!--END_SECTION:activity-->
 
 ---
 
@@ -336,7 +321,7 @@ It's on understanding **how to build systems that can grow.**
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/MohamedAmrMokhtar">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -344,30 +329,20 @@ It's on understanding **how to build systems that can grow.**
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
-## 💭 Developer Philosophy
-
 <h3 align="center">
 
-"Don't just write code. Build systems."
+💭 "Don't just write code. Build systems."
 
 </h3>
 
 <p align="center">
-
-⭐ If you find something useful here, consider giving it a star.
-
+  ⭐ If you find something useful here, consider giving it a star.
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
 </p>
