@@ -1,138 +1,300 @@
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Mohamed Amr</h1>
+# 👋 Hey, I'm Mohamed Amr
 
-<h3 align="center">
-Flutter Developer | Software Engineer | Mobile Application Developer
-</h3>
+### 🚀 Flutter Developer | Software Engineer | Mobile Application Engineer
 
-<p align="center">
+**I build scalable, production-ready mobile applications that solve real-world problems.**
+
+<p>
   <a href="https://github.com/mohamedamr77">
-    <img src="https://komarev.com/ghpvc/?username=mohamedamr77&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=mohamedamr77&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/mohamedamr77?tab=followers">
+    <img src="https://img.shields.io/github/followers/mohamedamr77?style=for-the-badge&label=FOLLOWERS" />
   </a>
 </p>
 
+</div>
+
+<img align="right" width="380" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+## 🧑‍💻 Who Am I?
+
+I'm a **Flutter Developer & Software Engineer** passionate about building reliable, scalable and beautiful mobile applications.
+
+I don't just build screens.
+
+I care about:
+
+* 🏗️ **Scalable Architecture**
+* ⚡ **Performance**
+* 🔌 **Clean API Integration**
+* 🔄 **Real-Time Communication**
+* 🔐 **Secure Authentication**
+* 📱 **Native Android & iOS Features**
+* 🧪 **Maintainable & Testable Code**
+* 🚀 **Production-Ready Applications**
+
+My goal is simple:
+
+> **Turn complex business requirements into clean, scalable and reliable software.**
+
 ---
 
-### 👨‍💻 About Me
+# ⚡ What I Do
 
-* 🚀 Software Engineer specialized in **Flutter & Mobile Application Development**
-* 📱 Building scalable and production-ready **Android & iOS applications**
-* 🧩 Experienced with **Clean Architecture, BLoC/Cubit, Dependency Injection & Modular Design**
-* 🔌 Working with **REST APIs, WebSockets, Real-Time Communication & Push Notifications**
-* 🔥 Experienced with **Firebase, FCM, Crashlytics & Authentication**
-* 🗺️ Worked with **Mapbox, Location Services & Maps**
-* 📞 Experienced in integrating **Call Center / VoIP features** with mobile applications
-* 🌱 Always learning and improving my software engineering skills
-* ⚡ **Work hard in silence, let success make the noise.**
+<table>
+<tr>
+<td width="50%">
 
----
+### 📱 Mobile Development
 
-### 🛠️ Tech Stack
+* Flutter
+* Dart
+* Android
+* iOS
+* Responsive UI
+* Custom Animations
+* Deep Linking
+* WebView
 
-#### 📱 Mobile Development
+</td>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple" />
-</p>
+<td width="50%">
 
-#### 🏗️ Architecture & State Management
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart" />
-</p>
+### 🏗️ Software Architecture
 
 * Clean Architecture
-* BLoC / Cubit
-* Dependency Injection
-* Repository Pattern
 * SOLID Principles
-* Modular & Scalable Architecture
+* Repository Pattern
+* Dependency Injection
+* BLoC / Cubit
+* Modular Architecture
+* Scalable Codebases
 
-#### 🌐 Backend & APIs
+</td>
+</tr>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase" />
-</p>
+<tr>
+<td width="50%">
+
+### 🌐 Backend Integration
 
 * REST APIs
 * Dio
-* JSON / Serialization
 * WebSockets
-* Real-Time Communication
-* Authentication & Authorization
+* JSON
+* Authentication
+* Authorization
+* Real-Time Systems
 
-#### 🔥 Firebase
+</td>
 
-* Firebase Cloud Messaging (FCM)
-* Firebase Crashlytics
-* Firebase Authentication
+<td width="50%">
+
+### 🔥 Firebase & Native
+
+* Firebase Cloud Messaging
+* Crashlytics
+* Authentication
 * Push Notifications
-* APNs / PushKit
-* VoIP Notifications
+* APNs
+* PushKit
+* VoIP
+* CallKit
 
-#### 🗺️ Other Technologies
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Things I've Built
+
+### 📞 Real-Time Communication & Call Center
+
+Building mobile experiences around **real-time communication**, including:
+
+* Incoming call handling
+* VoIP
+* PushKit
+* CallKit
+* Call status handling
+* WebSocket communication
+* Real-time events
+* Call center workflows
+
+**From a simple notification to a complete real-time communication flow.**
+
+---
+
+### 💬 Real-Time Chat Systems
+
+Experience working with messaging systems involving:
+
+* WebSockets
+* Real-time message updates
+* Unread messages
+* Chat states
+* Message synchronization
+* Optimistic UI updates
+* AI-powered chat features
+
+---
+
+### 🗺️ Location-Based Applications
+
+Working with:
 
 * Mapbox
 * Geolocation
-* WebView
-* Local Storage
-* Secure Storage
-* Internationalization & Localization
-* Git & GitHub
-* iOS / Android Development
+* Custom markers
+* Location services
+* Map interactions
+* Location-based business logic
 
 ---
 
-### 🚀 What I Build
+### 🛒 Business & E-Commerce Applications
 
-I enjoy building applications that involve:
+Building applications around real-world business requirements such as:
 
-* 📱 Cross-platform mobile applications
-* 💬 Real-time chat & messaging systems
-* 📞 Call Center & VoIP applications
-* 🔔 Push notification systems
-* 🗺️ Location-based applications
-* 🛒 E-commerce & Food Delivery applications
-* 📊 Dashboards & Management Systems
-* 🔗 API-driven applications
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedamr77&show_icons=true&theme=radical&hide_border=true" alt="Mohamed Amr GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamr77&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamr77&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+* Food delivery
+* Orders
+* Users
+* Vendors
+* Dashboards
+* Notifications
+* Payments
+* Real-time updates
 
 ---
 
-### 🏆 GitHub Profile Trophy
+# 🧠 Engineering Mindset
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedamr77&theme=radical&no-frame=true&margin-w=10" alt="GitHub Profile Trophy" />
-</p>
+```text
+Requirements
+     ↓
+Business Logic
+     ↓
+Architecture
+     ↓
+API / Backend Integration
+     ↓
+State Management
+     ↓
+UI / UX
+     ↓
+Testing
+     ↓
+Performance
+     ↓
+Production 🚀
+```
+
+I believe good software isn't just about **making it work**.
+
+It's about making it:
+
+**Readable → Maintainable → Scalable → Reliable**
 
 ---
 
-### 🤝 Connect With Me
+# 🛠️ Tech Stack
 
-<p align="left">
+<div align="center">
+
+### 📱 Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple" />
+
+### 🔥 Backend & Services
+
+<img src="https://skillicons.dev/icons?i=firebase" />
+
+### 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohamedamr77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamr77&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mohamedamr77&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedamr77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/mohamedamr77">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedamr77&repo=YOUR_PROJECT&theme=tokyonight&hide_border=true" />
+
+</a>
+
+</div>
+
+> 🚧 More projects and experiments are continuously being added.
+
+---
+
+# 🌱 Currently Exploring
+
+```text
+Flutter
+  ├── Advanced Architecture
+  ├── Performance Optimization
+  ├── Real-Time Systems
+  ├── WebSockets
+  ├── VoIP & CallKit
+  ├── PushKit
+  ├── System Design
+  └── Scalable Applications
+```
+
+I'm continuously improving my understanding of **software engineering beyond the UI layer**.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/mohamed-amr-184045293/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:moamr947@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/m.amr547">
@@ -140,27 +302,25 @@ I enjoy building applications that involve:
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=2001157280800">
-<img src="https://img.shields.io/badge/WhatsApp-075e54?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-### 💡 Currently
+<div align="center">
 
-🔭 Working on **Flutter applications and scalable mobile solutions**
+### 💭 Developer Philosophy
 
-🌱 Improving my knowledge in **Software Architecture, System Design & Scalable Applications**
+**"Don't just write code. Build systems."**
 
-💬 Ask me about **Flutter, Dart, BLoC, APIs, Firebase, WebSockets or Mobile Development**
+<br>
 
----
+⭐ If you find something useful here, consider giving it a star.
 
-<p align="center">
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
-</p>
+<br>
 
-<h3 align="center">
-  ⭐ Thanks for visiting my profile!
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
+
+</div>
