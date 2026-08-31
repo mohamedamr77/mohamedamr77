@@ -1,23 +1,21 @@
-<div align="center">
-
 # 👋 Hey, I'm Mohamed Amr
 
 ### 🚀 Flutter Developer | Software Engineer | Mobile Application Engineer
 
-**I build scalable, production-ready mobile applications that solve real-world problems.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Software+Engineer;Real-Time+Systems+Builder;Mobile+Application+Engineer;Building+Scalable+Production-Ready+Apps" />
+</p>
 
-<p>
-  <a href="https://github.com/mohamedamr77">
-    <img src="https://komarev.com/ghpvc/?username=mohamedamr77&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
-  <a href="https://github.com/mohamedamr77?tab=followers">
-    <img src="https://img.shields.io/github/followers/mohamedamr77?style=for-the-badge&label=FOLLOWERS" />
+  <a href="https://github.com/YOUR_USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=blue" />
   </a>
 </p>
 
-</div>
-
-<img align="right" width="380" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+---
 
 ## 🧑‍💻 Who Am I?
 
@@ -44,11 +42,7 @@ My goal is simple:
 
 # ⚡ What I Do
 
-<table>
-<tr>
-<td width="50%">
-
-### 📱 Mobile Development
+## 📱 Mobile Development
 
 * Flutter
 * Dart
@@ -58,12 +52,9 @@ My goal is simple:
 * Custom Animations
 * Deep Linking
 * WebView
+* Native Platform Integration
 
-</td>
-
-<td width="50%">
-
-### 🏗️ Software Architecture
+## 🏗️ Software Architecture
 
 * Clean Architecture
 * SOLID Principles
@@ -72,14 +63,9 @@ My goal is simple:
 * BLoC / Cubit
 * Modular Architecture
 * Scalable Codebases
+* Separation of Concerns
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Backend Integration
+## 🌐 Backend Integration
 
 * REST APIs
 * Dio
@@ -88,12 +74,9 @@ My goal is simple:
 * Authentication
 * Authorization
 * Real-Time Systems
+* API Error Handling
 
-</td>
-
-<td width="50%">
-
-### 🔥 Firebase & Native
+## 🔥 Firebase & Native Features
 
 * Firebase Cloud Messaging
 * Crashlytics
@@ -104,15 +87,11 @@ My goal is simple:
 * VoIP
 * CallKit
 
-</td>
-</tr>
-</table>
-
 ---
 
 # 🚀 Things I've Built
 
-### 📞 Real-Time Communication & Call Center
+## 📞 Real-Time Communication & Call Center
 
 Building mobile experiences around **real-time communication**, including:
 
@@ -124,12 +103,13 @@ Building mobile experiences around **real-time communication**, including:
 * WebSocket communication
 * Real-time events
 * Call center workflows
+* Push notifications
 
-**From a simple notification to a complete real-time communication flow.**
+> **From a simple notification to a complete real-time communication flow.**
 
 ---
 
-### 💬 Real-Time Chat Systems
+## 💬 Real-Time Chat Systems
 
 Experience working with messaging systems involving:
 
@@ -140,10 +120,11 @@ Experience working with messaging systems involving:
 * Message synchronization
 * Optimistic UI updates
 * AI-powered chat features
+* Real-time notifications
 
 ---
 
-### 🗺️ Location-Based Applications
+## 🗺️ Location-Based Applications
 
 Working with:
 
@@ -156,7 +137,7 @@ Working with:
 
 ---
 
-### 🛒 Business & E-Commerce Applications
+## 🛒 Business & E-Commerce Applications
 
 Building applications around real-world business requirements such as:
 
@@ -203,65 +184,108 @@ It's about making it:
 
 # 🛠️ Tech Stack
 
-<div align="center">
+## 📱 Mobile
 
-### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,swift" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple" />
+## 🔥 Backend & Services
 
-### 🔥 Backend & Services
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,nodejs,postman" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=firebase" />
+## 🗄️ Database
 
-### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+## 🧰 Tools
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,xcode" />
+</p>
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohamedamr77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+---
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamr77&layout=compact&theme=tokyonight&hide_border=true" />
+# 🔥 GitHub Streak
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
-<br>
+---
 
-<div align="center">
+# 📈 Contribution Activity
 
-<img src="https://streak-stats.demolab.com?user=mohamedamr77&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
 # 🏆 GitHub Achievements
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohamedamr77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+---
 
-</div>
+# 📊 Total Contributions
+
+<p align="center">
+
+  <img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+
+</p>
+
+> 🔄 Contribution statistics are generated dynamically from GitHub and update automatically as my activity changes.
 
 ---
 
 # 📌 Featured Projects
 
-<div align="center">
+### 🚀 Real-Time Communication
 
-<a href="https://github.com/mohamedamr77">
+Building scalable communication systems with:
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedamr77&repo=YOUR_PROJECT&theme=tokyonight&hide_border=true" />
+**Flutter + WebSockets + VoIP + PushKit + CallKit + Firebase**
 
-</a>
+---
 
-</div>
+### 💬 Real-Time Chat
+
+Scalable chat systems with:
+
+**WebSockets + AI Features + Notifications + Optimistic Updates**
+
+---
+
+### 🛒 Food Delivery
+
+Real-world food delivery architecture involving:
+
+**Users + Vendors + Orders + Payments + Notifications + Real-Time Updates**
+
+---
+
+### 🗺️ Location-Based Apps
+
+Applications powered by:
+
+**Mapbox + Geolocation + Custom Markers + Location Services**
 
 > 🚧 More projects and experiments are continuously being added.
 
@@ -278,49 +302,72 @@ Flutter
   ├── VoIP & CallKit
   ├── PushKit
   ├── System Design
-  └── Scalable Applications
+  ├── Scalable Applications
+  └── Software Engineering
 ```
 
 I'm continuously improving my understanding of **software engineering beyond the UI layer**.
 
 ---
 
-# 🤝 Let's Connect
+# 🎯 What I'm Focused On
 
-<div align="center">
+```text
+        ┌───────────────────────────────┐
+        │      SOFTWARE ENGINEERING     │
+        └───────────────┬───────────────┘
+                        │
+        ┌───────────────┼───────────────┐
+        ↓               ↓               ↓
+   Architecture     Performance     Scalability
+        │               │               │
+        └───────────────┼───────────────┘
+                        ↓
+                Production Systems
+```
 
-<a href="https://www.linkedin.com/in/mohamed-amr-184045293/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+My focus is not only on building applications.
 
-<a href="mailto:moamr947@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/m.amr547">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://api.whatsapp.com/send?phone=2001157280800">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</div>
+It's on understanding **how to build systems that can grow.**
 
 ---
 
-<div align="center">
+# 🤝 Let's Connect
 
-### 💭 Developer Philosophy
+<p align="center">
 
-**"Don't just write code. Build systems."**
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💭 Developer Philosophy
+
+<h3 align="center">
+
+"Don't just write code. Build systems."
+
+</h3>
+
+<p align="center">
 
 ⭐ If you find something useful here, consider giving it a star.
 
-<br>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
+---
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
