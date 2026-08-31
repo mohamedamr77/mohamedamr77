@@ -1,84 +1,166 @@
-
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
-<h4 align="center">
-                                                                                                                                                                        
-  Welcome to Mohamed amr's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
- </h4>
+<h1 align="center">Hi 👋, I'm Mohamed Amr</h1>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<h3 align="center">
+Flutter Developer | Software Engineer | Mobile Application Developer
+</h3>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile-APP%20developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <a href="https://github.com/mohamedamr77">
+    <img src="https://komarev.com/ghpvc/?username=mohamedamr77&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
-- 🏢 I'm a Software Engineer 
+---
 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+### 👨‍💻 About Me
 
-- 💬 Ask me about my experience with Dart, Flutter, Api , and Firebase or anything related to Mobile developer.
+* 🚀 Software Engineer specialized in **Flutter & Mobile Application Development**
+* 📱 Building scalable and production-ready **Android & iOS applications**
+* 🧩 Experienced with **Clean Architecture, BLoC/Cubit, Dependency Injection & Modular Design**
+* 🔌 Working with **REST APIs, WebSockets, Real-Time Communication & Push Notifications**
+* 🔥 Experienced with **Firebase, FCM, Crashlytics & Authentication**
+* 🗺️ Worked with **Mapbox, Location Services & Maps**
+* 📞 Experienced in integrating **Call Center / VoIP features** with mobile applications
+* 🌱 Always learning and improving my software engineering skills
+* ⚡ **Work hard in silence, let success make the noise.**
 
-- ⚡ Fun Fact : work hard in silence let success make the noise
+---
 
-  <br/><br/> 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedamr77" alt="mohamedamr77" /></a> </p>
-  
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=95px>
+### 🛠️ Tech Stack
 
-### Connect with Me :
+#### 📱 Mobile Development
 
-[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/m.amr547)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:moamr947@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/mohamed-amr-184045293/?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+2001157280800)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple" />
+</p>
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=95px>
+#### 🏗️ Architecture & State Management
 
-### 🛠 &nbsp;Tech Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart" />
+</p>
 
-<p align="left">  
-<a >
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&animation=spin&svgfill=15d8fe">  
- </a>
- <a href=">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=15d8fe">  
- </a>
-  <a href="">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=8ed5fa">
+* Clean Architecture
+* BLoC / Cubit
+* Dependency Injection
+* Repository Pattern
+* SOLID Principles
+* Modular & Scalable Architecture
+
+#### 🌐 Backend & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
+
+* REST APIs
+* Dio
+* JSON / Serialization
+* WebSockets
+* Real-Time Communication
+* Authentication & Authorization
+
+#### 🔥 Firebase
+
+* Firebase Cloud Messaging (FCM)
+* Firebase Crashlytics
+* Firebase Authentication
+* Push Notifications
+* APNs / PushKit
+* VoIP Notifications
+
+#### 🗺️ Other Technologies
+
+* Mapbox
+* Geolocation
+* WebView
+* Local Storage
+* Secure Storage
+* Internationalization & Localization
+* Git & GitHub
+* iOS / Android Development
+
+---
+
+### 🚀 What I Build
+
+I enjoy building applications that involve:
+
+* 📱 Cross-platform mobile applications
+* 💬 Real-time chat & messaging systems
+* 📞 Call Center & VoIP applications
+* 🔔 Push notification systems
+* 🗺️ Location-based applications
+* 🛒 E-commerce & Food Delivery applications
+* 📊 Dashboards & Management Systems
+* 🔗 API-driven applications
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedamr77&show_icons=true&theme=radical&hide_border=true" alt="Mohamed Amr GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamr77&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamr77&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedamr77&theme=radical&no-frame=true&margin-w=10" alt="GitHub Profile Trophy" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/mohamed-amr-184045293/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
- <a href="">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=659b60">
-</a>
-<a href="">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=df5c43">  
-</a>
-<a href="">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=cd6799">
+
+<a href="mailto:moamr947@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://www.facebook.com/m.amr547">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
-<!-- <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
-</a> -->
-<a href="">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=windows&svgfill=f6df1c">
+<a href="https://api.whatsapp.com/send?phone=2001157280800">
+<img src="https://img.shields.io/badge/WhatsApp-075e54?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
 
-   <!--
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=563D7C)&nbsp;
-![flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter&logoColor=563D7C)&nbsp;
-![firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000)
--->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedamr77&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=mohamedamr77&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mohamedamr77&style=for-the-badge">
-</a>
+---
+
+### 💡 Currently
+
+🔭 Working on **Flutter applications and scalable mobile solutions**
+
+🌱 Improving my knowledge in **Software Architecture, System Design & Scalable Applications**
+
+💬 Ask me about **Flutter, Dart, BLoC, APIs, Firebase, WebSockets or Mobile Development**
+
+---
+
+<p align="center">
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
+</p>
+
+<h3 align="center">
+  ⭐ Thanks for visiting my profile!
+</h3>
